@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Neelesh Kumar Vishwakarma and I'm a Angular developer from Mohali Punjab</h2>
+<h2 align="left">Hi 👋! My name is Neelesh Kumar Vishwakarma and I'm a Software developer from New Delhi</h2>
 
 ###
 
