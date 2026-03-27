@@ -23,7 +23,7 @@ Currently working at **Shiv Infotech Innovations Pvt. Ltd.** on enterprise-level
 
 ## 💼 Work Experience
 
-### **Shiv Infotech Innovations Pvt. Ltd.** — *Software Developer*
+### **Shiva Infotech Innovations Pvt. Ltd.** — *Software Developer*
 📅 *Aug 2024 – Present* | 📍 New Delhi
 
 **Project:** TurboERP
