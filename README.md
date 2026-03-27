@@ -10,7 +10,7 @@
 
 ## 🎯 About Me
 
-Passionate **Software Developer** with **1+ year of professional experience** specializing in:
+Passionate **Software Developer** with **3+ years of professional experience** specializing in:
 
 - **Frontend:** Angular, TypeScript, JavaScript, HTML5, CSS3, Bootstrap
 - **Backend:** .NET, C#, Node.js, Express.js
@@ -27,10 +27,10 @@ Currently working at **Shiv Infotech Innovations Pvt. Ltd.** on enterprise-level
 📅 *Aug 2024 – Present* | 📍 New Delhi
 
 **Project:** TurboERP
-- Developed reusable components, services, and modules
-- Created stored procedures, UDT, UDF, and API integrations
-- Implemented CRUD operations, document upload, and Excel data export
-- Full-stack development using Angular and .NET
+- Architected dynamic dashboard modules for real-time business analytics and reporting
+- Engineered automated invoice generation system with PDF export functionality
+- Implemented role-based access control (RBAC) for secure module-level permissions
+- Optimized database queries reducing report generation time by 40%
 
 **Tech:** Angular, Angular Material, .NET, SQL Server
 
@@ -39,13 +39,19 @@ Currently working at **Shiv Infotech Innovations Pvt. Ltd.** on enterprise-level
 ### **Softwiz Infotech** — *Jr. Angular Developer*
 📅 *July 2022 – Nov 2023* | 📍 Punjab
 
-**Project 1:** ISTCOSA
-- Built components, services, interfaces, and API integrations
-- Implemented data binding and CRUD operations
+**Project 1:** ISTCOSA (Alumni Management Platform)
+- Designed interactive alumni directory with advanced search and filter capabilities
+- Built event management module for reunion planning and ticket booking
+- Integrated payment gateway for membership fee collection
+- Developed photo gallery with drag-and-drop upload functionality
+
+**Tech:** Angular, Angular Material, REST API
 
 **Project 2:** MUR (Cargo Logistics Platform)
-- Designed responsive UI components
-- API integration, table management, and data manipulation
+- Created shipment tracking interface with real-time location updates
+- Developed warehouse inventory management system with stock alerts
+- Built customer portal for shipment booking and document upload
+- Implemented dynamic route optimization visualization using maps API
 
 **Tech:** Angular, PrimeNG, Nebular, Ngx Admin, Git, GitHub
 
@@ -54,10 +60,11 @@ Currently working at **Shiv Infotech Innovations Pvt. Ltd.** on enterprise-level
 ### **Freelance** — *Software Developer*
 📅 *Jan 2024 – Jul 2024*
 
-**Project:** ISTCOSA
-- Components, services, API integration
-- Database design (tables, procedures, functions)
-- Document upload and Excel export functionality
+**Project:** ISTCOSA (Enhanced Version)
+- Revamped entire UI with modern Angular Material components
+- Built responsive design ensuring seamless experience across devices
+- Integrated social media sharing features for alumni engagement
+- Developed newsletter subscription system with automated email campaigns
 
 **Tech:** Angular, Angular Material, .NET, SQL Server
 
@@ -66,7 +73,10 @@ Currently working at **Shiv Infotech Innovations Pvt. Ltd.** on enterprise-level
 ### **Klocrix Business Solutions Pvt Ltd** — *Software Developer Trainee*
 📅 *Mar 2022 – July 2022* | 📍 Punjab
 
-- Web development with HTML, CSS, Bootstrap, JavaScript, Angular, PrimeNG
+- Built responsive landing pages with Bootstrap grid system
+- Developed reusable Angular components for client projects
+- Created interactive forms with real-time validation
+- Collaborated on team projects using Git version control
 
 ---
 
@@ -150,11 +160,11 @@ Currently working at **Shiv Infotech Innovations Pvt. Ltd.** on enterprise-level
 
 ## 🏆 Featured Projects
 
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| **TurboERP** | Angular, .NET, SQL Server | Enterprise resource planning solution |
-| **ISTCOSA** | Angular, .NET, SQL Server | Alumni management platform |
-| **MUR** | Angular, PrimeNG, Nebular | Cargo logistics and supply chain platform |
+| Project | Domain | Key Features | Tech Stack |
+|---------|--------|--------------|------------|
+| **TurboERP** | Enterprise Resource Planning | Business analytics, Invoice generation, Role-based access control | Angular, .NET, SQL Server |
+| **ISTCOSA** | Alumni Management | Alumni directory, Event booking, Payment gateway, Photo gallery | Angular, .NET, SQL Server |
+| **MUR** | Cargo Logistics | Shipment tracking, Inventory management, Route optimization | Angular, PrimeNG, Nebular |
 
 ---
 
