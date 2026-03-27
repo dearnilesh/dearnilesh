@@ -3,9 +3,7 @@
 **Software Developer** | **Angular Specialist** | **Full Stack Enthusiast**
 
 📍 Janakpuri West, New Delhi, India  
-📞 +91 7054802580 | 📧<a href="mailto:nilesh10697@gmail.com">
-  <img src="https://img.shields.io/badge/Email-nilesh10697%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a> 
+📞 +91 7054802580 | 📧 nilesh10697@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/neeleshvishwakarma) | [GitHub](https://github.com/deARNILESH)
 
 ---
