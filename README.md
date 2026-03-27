@@ -1,18 +1,164 @@
-# 💫 About Me:
-Neelesh Kumar Vishwakarma        :Janakpuri West, New Delhi 110058<br>Software Developer	                       Mobile No.     :  7054802580<br>                                                                                      Email  : nilesh10697@gmail.com<br>                                                                                          : Linkedin<br><br>CAREER OBJECTIVE<br>My journey in software development has led me to specialize in HTML, CSS, JavaScript, TypeScript and Angular. Which enabling me to create dynamic and responsive website for enterprise applications.<br> I recently added 1+ year of experience to my role as Jr. Angular Developer at  Softwiz Infotech. <br><br>WORK EXPERIENCE<br>Shiv Infotech Innovations Pvt. Ltd. [ Software Developer ].<br>A ug2024 – Present<br>Janakpuri West, New Delhi, India.<br>PROJECT:    TurboERP<br>Duration:    Aug 2024 to Continuous .<br>Description: The Indo Swiss training center Old Students' Association (ISTCOSA) was formed to bring the alumni under one umbrella. Since then, the association has risen from being merely a gathering for various activities like lunch and dinner Get Together to a strong organization with goals and achievements.<br>Role & Responsibility: Worked as a Develop Component ,Service Method , Create Table ,Create New Proc and action , udt , udf, make new API and  integration, Create Module and Document Upload, Dada Download in Excel, manipulate as requirement  and Complete CRUD.<br>Technologies: Angular , Angular Material,.net, SQL Server<br><br>Freelance  [ Software Developer ].<br>Jan 2024 - Jul 2024.<br>PROJECT:    ISTCOSA<br>Duration:    Aug 2022 to May 2023.<br>Description: The Indo Swiss training center Old Students' Association (ISTCOSA) was formed to bring the alumni under one umbrella. Since then, the association has risen from being merely a gathering for various activities like lunch and dinner Get Together to a strong organization with goals and achievements.<br>Role & Responsibility: Worked as a Develop Component ,Service Method , Create Table ,Create New Proc and action , udt , udf, make new API and  integration, Create Module and Document Upload, Dada Download in Excel, manipulate as requirement  and Complete CRUD.<br>Technologies: Angular , Angular Material,.net, SQL Server<br><br>Softwiz Infotech [Jr. Angular Developer ].<br> July 2022 - Nov 2023.<br>Sahibzada Ajit Singh Nagar, Punjab, India.<br>PROJECT:    ISTCOSA<br>Duration:    Aug 2022 to May 2023.<br>Description: The Indo Swiss training center Old Students' Association (ISTCOSA) was formed to bring the alumni under one umbrella. Since then, the association has risen from being merely a gathering for various activities like lunch and dinner Get Together to a strong organization with goals and achievements.<br>Role & Responsibility: Worked as a Develop Component ,Service ,Interface, API integration, Create Form and Binding data, manage Data, manipulate as requirement  and Complete CRUD.<br>Technologies: Angular , Angular Material.<br><br>PROJECT:    MUR<br>Duration:    June 2023 to Nov 2023.<br>Description:   MUR is a leading cargo logistics, transportation, supply chain and storage services provider in the dry bulk shipping industry as well as a market-leading provider of innovative shipping solutions.<br><br>Role & Responsibility: Worked as a Develop Component and Design, Service, Interface, API integration, Create Form and Binding data, Create Table and Data Binding manage Data and manipulate as requirement  and Complete CRUD.<br>Technologies:   Angular, Prime Ng, Nebular, Ngx Admin, Git, GitHub.<br>INTERNSHIP <br>Klocrix Business Solutions Pvt Ltd [ Software Developer Trainee].<br> Mar 2022 –  July 2022. <br>Sahibzada Ajit Singh Nagar, Punjab, India.<br>Work on Web Development with HTML, CSS, Bootstrap, JavaScript, Angular, Prime Ng .<br><br><br>TECHNICAL SKILLS<br>HTML ,CSS, JavaScript, Bootstrap, Angular, Prime Ng, Angular Material , Nebular, TypeScript , jQuery, Front End, API Integration, RxJs, GoodDay, Git, GitHub, Gitlab.<br><br>ACADEMICS QUALIFICATION<br>Dr. A.P.J. Abdul Kalam Technical University <br>Master of Computer Applications - MCA, Computer Science · (August <br>2018 - September 2020).<br><br>Mahatma Gandhi Kashi Vidyapith <br>BCA, Computer Science · (April 2015 - May 2018). <br><br>Bayalasi Inter College ,Jalalpur, Jaunpur <br>Intermediate, Mathematics · (March 2013 - March 2015).<br>High School, Mathematics (March 2011 - June 2013).<br><br>OTHER QUALIFICATION<br>Angular Basics Certification in Online Course offered by Simplilearn .<br>Git Training Certification in online course offered by Simplilearn .
+# 👨‍💻 Neelesh Kumar Vishwakarma
 
+**Software Developer** | **Angular Specialist** | **Full Stack Enthusiast**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neeleshvishwakarma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nilesh10697@gmail.com) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=deARNILESH&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=deARNILESH&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deARNILESH&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+📍 Janakpuri West, New Delhi, India  
+📞 +91 7054802580 | 📧<a href="mailto:nilesh10697@gmail.com">
+  <img src="https://img.shields.io/badge/Email-nilesh10697%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a> 
+🔗 [LinkedIn](https://linkedin.com/in/neeleshvishwakarma) | [GitHub](https://github.com/deARNILESH)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=deARNILESH&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 About Me
+
+Passionate **Software Developer** with **1+ year of professional experience** specializing in:
+
+- **Frontend:** Angular, TypeScript, JavaScript, HTML5, CSS3, Bootstrap
+- **Backend:** .NET, C#, Node.js, Express.js
+- **Database:** SQL Server, MongoDB
+- **Tools:** Git, GitHub, Docker, Webpack, NPM
+
+Currently working at **Shiv Infotech Innovations Pvt. Ltd.** on enterprise-level applications. I love building responsive, scalable web solutions that solve real-world problems.
+
+---
+
+## 💼 Work Experience
+
+### **Shiv Infotech Innovations Pvt. Ltd.** — *Software Developer*
+📅 *Aug 2024 – Present* | 📍 New Delhi
+
+**Project:** TurboERP
+- Developed reusable components, services, and modules
+- Created stored procedures, UDT, UDF, and API integrations
+- Implemented CRUD operations, document upload, and Excel data export
+- Full-stack development using Angular and .NET
+
+**Tech:** Angular, Angular Material, .NET, SQL Server
+
+---
+
+### **Softwiz Infotech** — *Jr. Angular Developer*
+📅 *July 2022 – Nov 2023* | 📍 Punjab
+
+**Project 1:** ISTCOSA
+- Built components, services, interfaces, and API integrations
+- Implemented data binding and CRUD operations
+
+**Project 2:** MUR (Cargo Logistics Platform)
+- Designed responsive UI components
+- API integration, table management, and data manipulation
+
+**Tech:** Angular, PrimeNG, Nebular, Ngx Admin, Git, GitHub
+
+---
+
+### **Freelance** — *Software Developer*
+📅 *Jan 2024 – Jul 2024*
+
+**Project:** ISTCOSA
+- Components, services, API integration
+- Database design (tables, procedures, functions)
+- Document upload and Excel export functionality
+
+**Tech:** Angular, Angular Material, .NET, SQL Server
+
+---
+
+### **Klocrix Business Solutions Pvt Ltd** — *Software Developer Trainee*
+📅 *Mar 2022 – July 2022* | 📍 Punjab
+
+- Web development with HTML, CSS, Bootstrap, JavaScript, Angular, PrimeNG
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Year |
+|--------|-------------|------|
+| **MCA** (Master of Computer Applications) | Dr. A.P.J. Abdul Kalam Technical University | 2018 – 2020 |
+| **BCA** (Bachelor of Computer Applications) | Mahatma Gandhi Kashi Vidyapith | 2015 – 2018 |
+| **Intermediate** (Mathematics) | Bayalasi Inter College, Jaunpur | 2013 – 2015 |
+| **High School** (Mathematics) | Bayalasi Inter College, Jaunpur | 2011 – 2013 |
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+
+### Backend & Database
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+
+### Testing
+![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=flat-square&logo=jasmine&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+
+### Hosting & Cloud
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deARNILESH&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deARNILESH&theme=dark&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deARNILESH&layout=compact&theme=dark&hide_border=true" width="45%" />
+</div>
+
+---
+
+## 📈 Profile Views
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=deARNILESH&icon=0&color=0" />
+</div>
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neeleshvishwakarma)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nilesh10697@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deARNILESH)
+
+---
+
+## 🏆 Featured Projects
+
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| **TurboERP** | Angular, .NET, SQL Server | Enterprise resource planning solution |
+| **ISTCOSA** | Angular, .NET, SQL Server | Alumni management platform |
+| **MUR** | Angular, PrimeNG, Nebular | Cargo logistics and supply chain platform |
+
+---
+
+⭐️ *Feel free to explore my repositories and connect with me!*
