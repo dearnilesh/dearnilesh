@@ -17,7 +17,7 @@ Passionate **Software Developer** with **3+ years of professional experience** s
 - **Database:** SQL Server, MongoDB
 - **Tools:** Git, GitHub, Docker, Webpack, NPM
 
-Currently working at **Shiv Infotech Innovations Pvt. Ltd.** on enterprise-level applications. I love building responsive, scalable web solutions that solve real-world problems.
+Currently working at **Shiva Infotech Innovations Pvt. Ltd.** on enterprise-level applications. I love building responsive, scalable web solutions that solve real-world problems.
 
 ---
 
