@@ -36,6 +36,19 @@ Currently working at **Shiva Infotech Innovations Pvt. Ltd.** on enterprise-leve
 
 ---
 
+### **Freelance** — *Software Developer*
+📅 *Jan 2024 – Jul 2024*
+
+**Project:** ISTCOSA (Enhanced Version)
+- Revamped entire UI with modern Angular Material components
+- Built responsive design ensuring seamless experience across devices
+- Integrated social media sharing features for alumni engagement
+- Developed newsletter subscription system with automated email campaigns
+
+**Tech:** Angular, Angular Material, .NET, SQL Server
+
+---
+
 ### **Softwiz Infotech** — *Jr. Angular Developer*
 📅 *July 2022 – Nov 2023* | 📍 Punjab
 
@@ -57,18 +70,6 @@ Currently working at **Shiva Infotech Innovations Pvt. Ltd.** on enterprise-leve
 
 ---
 
-### **Freelance** — *Software Developer*
-📅 *Jan 2024 – Jul 2024*
-
-**Project:** ISTCOSA (Enhanced Version)
-- Revamped entire UI with modern Angular Material components
-- Built responsive design ensuring seamless experience across devices
-- Integrated social media sharing features for alumni engagement
-- Developed newsletter subscription system with automated email campaigns
-
-**Tech:** Angular, Angular Material, .NET, SQL Server
-
----
 
 ### **Klocrix Business Solutions Pvt Ltd** — *Software Developer Trainee*
 📅 *Mar 2022 – July 2022* | 📍 Punjab
